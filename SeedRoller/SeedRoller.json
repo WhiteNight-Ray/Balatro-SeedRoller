@@ -1,0 +1,15 @@
+{
+  "id": "SeedRoller",
+  "name": "Seed Roller",
+  "author": [
+    "Codex"
+  ],
+  "description": "Unseeded random-run search for 1-2 Jokers across shops, including one reroll and Buffoon packs. Options > Seed Roller.",
+  "prefix": "sroll",
+  "main_file": "main.lua",
+  "version": "0.5.0",
+  "priority": 100,
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827a)"
+  ]
+}
